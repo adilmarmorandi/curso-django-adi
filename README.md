@@ -1,4 +1,7 @@
 # curso-django-adi
+
+Aplicação disponível em https://pythonprodjangoadi.herokuapp.com/
+
 Código desenvolvido para estudar o framework
 
 [![Build Status](https://travis-ci.com/adilmarmorandi/curso-django-adi.svg?branch=master)](https://travis-ci.com/adilmarmorandi/curso-django-adi)
